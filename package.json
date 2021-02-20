@@ -1,0 +1,15 @@
+{
+  "name": "create-ef-app",
+  "description": "Create ef.js apps",
+  "version": "1.0.0",
+  "author": "ClassicOldSong <yukino@yuki.network>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.0.0"
+  },
+  "license": "MIT"
+}
