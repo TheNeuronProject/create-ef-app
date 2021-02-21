@@ -1,6 +1,6 @@
 [submodule "templates/rollup"]
-	path = templates/rollup
+	path = templates/ef-starter-rollup
 	url = https://github.com/TheNeuronProject/ef-starter-rollup
 [submodule "templates/vite"]
-	path = templates/vite
+	path = templates/ef-starter-vite
 	url = https://github.com/TheNeuronProject/ef-starter-vite
