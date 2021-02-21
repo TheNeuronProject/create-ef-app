@@ -14,6 +14,5 @@ Happy playing around with ef.js!
 
 create('create-ef-app', {
   templateRoot,
-  promptForTemplate: true,
   caveat,
 });

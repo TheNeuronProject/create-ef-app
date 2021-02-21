@@ -7,5 +7,14 @@ Create ef.js apps
 ## Useage
 
 ```bash
-npm init ef-app [project-name]
+npm init ef-app <project-name> -- --template <template>
 ```
+
+## Templates
+
+Current available templates:
+
+- `rollup`
+- `vite`
+
+PRs are welcome.
