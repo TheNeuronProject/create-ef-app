@@ -1,7 +1,7 @@
 {
   "name": "create-ef-app",
   "description": "Create ef.js apps",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "author": "ClassicOldSong <yukino@yuki.network>",
   "bin": "src/cli.js",
   "files": [
